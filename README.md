@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, Prajwal Kanade</h1>
+
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+🌱 **AI and ML Engineer**
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+
 Welcome to my GitHub profile! I'm Prajwal Kanade, a passionate data enthusiast with a background in Artificial Intelligence and Data Science. 
 I'm highly interested in Python, Machine Learning, Deep Learning, Data Science, SQL, and Natural Language Processing (NLP). Currently, I'm actively exploring and working on projects in these domains.
 
