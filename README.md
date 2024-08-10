@@ -3,23 +3,17 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-🌱 **AI and ML Engineer**
+# 🌱 **AI and ML Engineer**
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-Welcome to my GitHub profile! I'm Prajwal Kanade, a passionate data enthusiast with a background in Artificial Intelligence and Data Science. 
-I'm highly interested in Python, Machine Learning, Deep Learning, Data Science, SQL, and Natural Language Processing (NLP). Currently, I'm actively exploring and working on projects in these domains.
+**Welcome to My GitHub Profile!**
+
+Hello! I'm **Prajwal Kanade**, a dedicated data enthusiast with a robust background in **Artificial Intelligence** and **Data Science**. My career is driven by a profound interest in **Python**, **Machine Learning**, **Deep Learning**, **Data Science**, **SQL**, and **Natural Language Processing (NLP)**.
+
+Currently, I am deeply engaged in exploring and developing innovative projects within these fields. I am excited to share my work and insights with you through my GitHub contributions.
 
 <hr width="72%" >
 
-<h3 align="center">My GitHub Stats</h3>
-<hr width="96%" >
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalk-1&show_icons=true&theme=dark&locale=en&layout=compact" alt="prajwalk-1" /></p>
-<br>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prajwalk-1&show_icons=true&theme=dark&locale=en"/></p>
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalk-1&theme=dark" alt="prajwalk-1" /></p>
-<br>
-<hr width="97%" >
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/prajwal-kanade-6700a5252" ><img src="https://img.shields.io/badge/-Prajwal%20Kanade-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
