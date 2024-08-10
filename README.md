@@ -13,6 +13,8 @@ I'm highly interested in Python, Machine Learning, Deep Learning, Data Science, 
 
 <h3 align="center">My GitHub Stats</h3>
 <hr width="96%" >
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bprajwalk-1%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalk-1&show_icons=true&theme=dark&locale=en&layout=compact" alt="prajwalk-1" /></p>
 <br>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prajwalk-1&show_icons=true&theme=dark&locale=en"/></p>
