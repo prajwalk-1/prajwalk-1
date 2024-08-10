@@ -9,7 +9,7 @@
 Welcome to my GitHub profile! I'm Prajwal Kanade, a passionate data enthusiast with a background in Artificial Intelligence and Data Science. 
 I'm highly interested in Python, Machine Learning, Deep Learning, Data Science, SQL, and Natural Language Processing (NLP). Currently, I'm actively exploring and working on projects in these domains.
 
-<hr width="70%" >
+<hr width="72%" >
 
 <h3 align="center">My GitHub Stats</h3>
 <hr width="96%" >
