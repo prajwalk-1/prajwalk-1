@@ -9,12 +9,10 @@
 Welcome to my GitHub profile! I'm Prajwal Kanade, a passionate data enthusiast with a background in Artificial Intelligence and Data Science. 
 I'm highly interested in Python, Machine Learning, Deep Learning, Data Science, SQL, and Natural Language Processing (NLP). Currently, I'm actively exploring and working on projects in these domains.
 
-<hr width="74%" >
+<hr width="70%" >
 
 <h3 align="center">My GitHub Stats</h3>
 <hr width="96%" >
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bprajwalk-1%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalk-1&show_icons=true&theme=dark&locale=en&layout=compact" alt="prajwalk-1" /></p>
 <br>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=prajwalk-1&show_icons=true&theme=dark&locale=en"/></p>
