@@ -56,14 +56,25 @@ Currently, I am deeply engaged in exploring and developing innovative projects w
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 
 
-## Looking for Opportunities
+------
 
-I am actively looking for opportunities in the field of Data Science and Machine Learning. 
-If you are interested in collaborating on data projects or have opportunities related to my areas of interest, please don't hesitate to reach out.
 
-Feel free to explore my repositories to see some of my projects and contributions. If you have any questions or would like to connect, please reach out via email📧.
-
-Thank you for visiting my GitHub profile😊!
+<div style="background: linear-gradient(135deg, #e0f7fa, #f0f4c3); border-radius: 15px; padding: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 700px; margin: auto;">
+    <h2 style="color: #00796b; text-align: center; font-size: 28px; margin-bottom: 20px;">
+        🔍 Looking for Opportunities
+    </h2>
+    <p style="font-size: 18px; color: #2e7d32; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
+        I am actively seeking opportunities in the fields of <strong style="color: #388e3c;">Data Science</strong> and <strong style="color: #388e3c;">Machine Learning</strong>. 
+        If you're interested in collaborating on innovative data projects or have opportunities aligned with my expertise, I would love to connect!
+    </p>
+    <p style="font-size: 18px; color: #2e7d32; text-align: justify; line-height: 1.8; margin-bottom: 30px;">
+        Feel free to explore my repositories to discover some of my work and contributions. If you have any questions or wish to discuss potential collaborations, 
+        please don't hesitate to reach out via <a href="mailto:kanadeprajwal24@gmail.com" style="color: #0288d1; text-decoration: none; font-weight: bold;">email 📧</a>.
+    </p>
+    <p style="font-size: 20px; color: #00796b; text-align: center; font-weight: bold;">
+        Thank you for visiting my GitHub profile 😊!
+    </p>
+</div>
 
 
 <!---
