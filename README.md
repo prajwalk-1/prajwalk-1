@@ -72,7 +72,7 @@ Currently, I am deeply engaged in exploring and developing innovative projects w
         please don't hesitate to reach out via <a href="mailto:kanadeprajwal24@gmail.com" style="color: #0288d1; text-decoration: none; font-weight: bold;">email 📧</a>.
     </p>
     <p style="font-size: 20px; color: #00796b; text-align: center; font-weight: bold;">
-        Thank you for visiting my GitHub profile 😊!
+        Thank you for visiting my GitHub profile😊!
     </p>
 </div>
 
