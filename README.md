@@ -54,6 +54,8 @@ Currently, I am deeply engaged in exploring and developing innovative projects w
 ![Jetson Nano](https://img.shields.io/badge/-Jetson%20Nano-05122A?style=flat&logo=nvidia&logoColor=76B900)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![LangChain](https://github.com/user-attachments/assets/c35012db-d697-4f6f-ac98-d301abf2cfb0)
+![image](https://github.com/user-attachments/assets/8a0b3363-1d72-4e19-b5a5-758f7f71b222)
 
 
 ------
